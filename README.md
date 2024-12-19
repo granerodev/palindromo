@@ -1,2 +1,2 @@
 # palindromo
-repositorio para codigo para calcular palindromo
+repositorio para codigo para calcular palindromo.
